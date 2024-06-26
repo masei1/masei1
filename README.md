@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm marsei-l, a Senior Software Engineer with over
 ## 💼 Professional Experience
 
 - **Senior Software Developer (Since 2017) - Beijing, China**: Leading backend development, focusing on APIs, cloud architecture, and CI/CD processes. Key player in transitioning a monolithic system into a distributed architecture.
-- **Software Developer (2016-2017) - Paris, France**: Developed modules in C#/.NET and created a project management application using Ruby on Rails.
+- **Software Developer (2016-2017) - Paris, France**: Developed modules in C#/.NET for the company software and created an internal project management application using Ruby on Rails.
 
 - **Software Developer internships (2013-2015) - Paris, France**: Additional roles at Major companies and government entites that contributed to my foundation in software development.
 
