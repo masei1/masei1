@@ -23,6 +23,14 @@ Welcome to my GitHub profile! I'm marsei-l, a Senior Software Engineer with over
 - **Master of Information Technologies** from EPITECH Paris,
 - **Master of Software Engineering** from Beijing Jiaotong University
 
+## 🏅 Certifications & Badges
+
+[![Meta Full-Stack Engineer Certificate](./meta-full-stack-engineer-certificate.png)](https://www.credly.com/earner/earned/badge/90ec27bc-0503-489b-bca4-3796d84e91a7)
+[![Meta Back-End Developer Certificate](./meta-back-end-developer-certificate.png)](https://www.credly.com/earner/earned/badge/b876f041-0339-4775-a351-45f2f60f25f9)
+[![Meta Front-End Developer Certificate](./meta-front-end-developer-certificate.png)](https://www.credly.com/earner/earned/badge/610422ac-f7b8-4a7d-afc7-bc0091384b24)
+[![Meta Database Engineer Certificate](./meta-database-engineer-certificate.png)](https://www.credly.com/earner/earned/badge/ac093904-de51-4e96-8687-0755bdbd81c0)
+[![Meta Android Developer Certificate](./meta-android-developer-certificate.png)](https://www.credly.com/earner/earned/badge/9f85f1dc-fb8e-4952-a1f3-1094fa33de28)
+
 ## 🌟 Achievements
 
 - **Master degree Project**: A cross-platform mobile app and secure backend system facilitating healthcare document management.
