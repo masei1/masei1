@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
   <a href="https://www.credly.com/earner/earned/badge/9f85f1dc-fb8e-4952-a1f3-1094fa33de28">
     <img src="./meta-android-developer-certificate.png" width="70" alt="Meta Android Developer Certificate"/>
   </a>
-
+  <br>
   <a href="https://www.credly.com/badges/24bdf057-7777-4727-87a4-ef06c1fa033a/public_url">
     <img src="./aws-knowledge-cloud-essentials.png" width="100" alt="aws-knowledge-cloud-essentials"/>
   </a>
