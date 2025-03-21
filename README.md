@@ -57,6 +57,10 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
   <a href="https://www.credly.com/earner/earned/badge/90ec27bc-0503-489b-bca4-3796d84e91a7">
     <img src="./meta-full-stack-engineer-certificate.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
   </a>
+  <a href="https://www.credly.com/earner/earned/badge/90ec27bc-0503-489b-bca4-3796d84e91a7">
+    <img src="./meta-generalist-software-engineer-certificate.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
+  </a>
+<br>
   <a href="https://www.credly.com/earner/earned/badge/b876f041-0339-4775-a351-45f2f60f25f9">
     <img src="./meta-back-end-developer-certificate.png" width="70" alt="Meta Back-End Developer Certificate"/>
   </a>
