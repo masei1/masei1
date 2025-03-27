@@ -57,7 +57,7 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
   <a href="https://www.credly.com/earner/earned/badge/90ec27bc-0503-489b-bca4-3796d84e91a7">
     <img src="./meta-full-stack-engineer-certificate.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/90ec27bc-0503-489b-bca4-3796d84e91a7">
+  <a href="https://www.credly.com/badges/edda6bef-662c-4f26-a56c-859e3b154ce0/public_url">
     <img src="./meta-generalist-software-engineer-certificate.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
   </a>
 <br>
@@ -77,8 +77,8 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
   <a href="https://www.credly.com/badges/24bdf057-7777-4727-87a4-ef06c1fa033a/public_url">
     <img src="./aws-knowledge-cloud-essentials.png" width="100" alt="aws-knowledge-cloud-essentials"/>
   </a>
-  <a href="https://www.credly.com/badges/24bdf057-7777-4727-87a4-ef06c1fa033a/public_url">
-    <img src="./aws_credlybadges_technology_architecting.png" width="100" alt="aws-knowledge-technology-architecting"/>
+  <a href="https://www.credly.com/badges/b648c537-fbaa-439c-8ad0-1625cff16bdd/public_url">
+    <img src="./aws-knowledge-architecting.png" width="100" alt="aws-knowledge-technology-architecting"/>
   </a>
   <a href="https://www.credly.com/badges/e96613fe-3c51-4440-8128-2959a8b2db82/public_url">
     <img src="./aws-cloud-quest-cloud-practitioner.png" width="100" alt="aws-cloud-quest-cloud-practitioner"/>
