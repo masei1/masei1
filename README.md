@@ -1,11 +1,11 @@
 # Masei
 
-
 Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8 years of experience in Software, Web Backend development and architecture. I specialize in creating robust and scalable solutions using a wide array of technologies. My journey in tech has led me to work on innovative projects, contributing to both the development and architectural design of complex systems.
 
 ## 🚀 Languages, Technologies & Skills
 
 ### 💻 Programming Languages
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" alt="Go"/>
@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
 </p>
 
 ### 🎨 Frontend Technologies
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
@@ -29,6 +30,7 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
 </p>
 
 ### 🗄️ Databases
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
@@ -39,6 +41,7 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
 </p>
 
 ### ☁️ Cloud Technologies
+
 <p align="left">
   <img src="./aws.png" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" alt="Terraform"/>
@@ -46,40 +49,46 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
 </p>
 
 ### 📊 Data Visualization & Analytics
+
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" alt="Tableau"/>
 </p>
 
-
-
-## 🏅 Certifications & Badges
 <p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/90ec27bc-0503-489b-bca4-3796d84e91a7">
+  <a href="https://www.credly.com/badges/c30e228a-4008-4c98-a5e6-71ca5a6ff49c/public_url">
+    <img src="./google-project-management-professional-certificate-.1.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
+  </a>
+  <br>
+  <a href="https://www.credly.com/badges/90ec27bc-0503-489b-bca4-3796d84e91a7/public_url">
     <img src="./meta-full-stack-engineer-certificate.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
   </a>
   <a href="https://www.credly.com/badges/edda6bef-662c-4f26-a56c-859e3b154ce0/public_url">
     <img src="./meta-generalist-software-engineer-certificate.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
   </a>
 <br>
-  <a href="https://www.credly.com/earner/earned/badge/b876f041-0339-4775-a351-45f2f60f25f9">
+  <a href="https://www.credly.com/badges/2b6aaa04-664e-4bf7-9421-f426c16bba32/public_url">
     <img src="./meta-back-end-developer-certificate.png" width="70" alt="Meta Back-End Developer Certificate"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/610422ac-f7b8-4a7d-afc7-bc0091384b24">
+  <a href="https://www.credly.com/badges/b10db51e-dc92-494b-bfe9-db75340d3f34/public_url">
     <img src="./meta-front-end-developer-certificate.png" width="70" alt="Meta Front-End Developer Certificate"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/ac093904-de51-4e96-8687-0755bdbd81c0">
+  <a href="https://www.credly.com/badges/486d47d2-8d5f-429a-ac13-9ce08a172ac9/public_url">
     <img src="./meta-database-engineer-certificate.png" width="70" alt="Meta Database Engineer Certificate"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/9f85f1dc-fb8e-4952-a1f3-1094fa33de28">
+  <a href="https://www.credly.com/badges/7f61d464-298d-4dbc-800b-b2827a696fb7/public_url">
     <img src="./meta-android-developer-certificate.png" width="70" alt="Meta Android Developer Certificate"/>
   </a>
   <br>
+  <a href="https://www.credly.com/badges/5d682a72-ccd3-492c-984c-8687f02434ba/public_url">
+    <img src="./aws-knowledge-serverless.png" width="100" alt="aws-knowledge-cloud-essentials"/>
+  </a>
   <a href="https://www.credly.com/badges/24bdf057-7777-4727-87a4-ef06c1fa033a/public_url">
     <img src="./aws-knowledge-cloud-essentials.png" width="100" alt="aws-knowledge-cloud-essentials"/>
   </a>
   <a href="https://www.credly.com/badges/b648c537-fbaa-439c-8ad0-1625cff16bdd/public_url">
     <img src="./aws-knowledge-architecting.png" width="100" alt="aws-knowledge-technology-architecting"/>
   </a>
+  <br>
   <a href="https://www.credly.com/badges/e96613fe-3c51-4440-8128-2959a8b2db82/public_url">
     <img src="./aws-cloud-quest-cloud-practitioner.png" width="100" alt="aws-cloud-quest-cloud-practitioner"/>
   </a>
@@ -120,6 +129,7 @@ Feel free to reach out to me for collaborations, professional inquiries, or just
 Thanks for visiting my profile, and I look forward to connecting with you!
 
 ---
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=masei1.masei1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=masei1&layout=compact&theme=radical)
