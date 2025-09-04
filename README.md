@@ -54,6 +54,8 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="40" alt="Tableau"/>
 </p>
 
+## 🏅 Certifications & Badges
+
 <p align="left">
   <a href="https://www.credly.com/badges/c30e228a-4008-4c98-a5e6-71ca5a6ff49c/public_url">
     <img src="./google-project-management-professional-certificate-.1.png" width="70" alt="Meta Full-Stack Engineer Certificate"/>
