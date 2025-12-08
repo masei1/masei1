@@ -1,6 +1,55 @@
 # Masei
 
-Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 8 years of experience in Software, Web Backend development and architecture. I specialize in creating robust and scalable solutions using a wide array of technologies. My journey in tech has led me to work on innovative projects, contributing to both the development and architectural design of complex systems.
+Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 9 years of experience in Software, Web Backend development and architecture. I specialize in creating robust and scalable solutions using a wide array of technologies. My journey in tech has led me to work on innovative projects, contributing to both the development and architectural design of complex systems.
+
+## 🧭 What I Do — Expertise & Architecture Leadership
+
+I design and lead large-scale, real-time distributed systems powering millions of users.
+My work combines deep backend engineering, cloud architecture, and high-stakes platform reliability across global products.
+
+### ⚡ Large-Scale Data & Real-Time Platforms
+
+Architected pipelines handling massive continuous data streams 
+
+Designed high-availability ETL, alerting, and notification ecosystems (batching, deduplication, latency optimization).
+
+Lead modernization efforts toward event-driven, resilient, and horizontally scalable data services.
+
+### 🌍 Geo-Spatial Search & Intelligence
+
+Owner of high-performance geo-search and map computation architecture used across web & mobile.
+
+Designed systems for geospatial clustering, ranking, and real-time map intelligence.
+
+Lead initiatives improving accuracy, speed, and user experience across location-based features.
+
+Built next-generation platforms leveraging OpenSearch, Redis, and geo-tile strategies for scalable map data.
+
+Defined standards for efficient search caching, multi-layer map resolution, and intelligent marker generation.
+
+### 🏗️ Backend, API, & Cloud Infrastructure Leadership
+
+Architected public/private API ecosystems, enforcing strong SLAs, observability, and multi-region performance.
+
+Designed secure cross-account AWS foundations using VPC networking, CloudFront, ALB/NLB, IAM, and S3-CDN pipelines.
+
+Implemented SRE-grade reliability patterns (graceful degradation, circuit breakers, rate-limiting, auto-scaling).
+
+### 🧩 System Design, Architecture Vision & Technical Leadership
+
+Lead complex, multi-team initiatives bridging backend, mobile, web, DevOps, SRE, and product stakeholders.
+
+Drive large technical spikes, RFCs, and redesigns for critical systems (NextGen map engines, caching strategy, markers, alerts).
+
+Own documentation, specifications, architecture standards, and best practices.
+
+Mentor engineers, elevate code quality culture, and guide architectural decision-making across teams.
+
+### 🌫 Deep Domain Expertise
+
+9+ years of leadership in the air quality, sensor data, environmental intelligence domain.
+
+Deep understanding of sensor calibration, AQI computation, distributed ingestion, and high-volume environmental data workflows.
 
 ## 🚀 Languages, Technologies & Skills
 
