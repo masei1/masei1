@@ -2,10 +2,19 @@
 
 Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 9 years of experience in Software, Web Backend development and architecture. I specialize in creating robust and scalable solutions using a wide array of technologies. My journey in tech has led me to work on innovative projects, contributing to both the development and architectural design of complex systems.
 
-## 🧭 What I Do — Expertise & Architecture Leadership
+
+## Professional Scope & Responsibilities
 
 I design and lead large-scale, real-time distributed systems powering millions of users.
-My work combines deep backend engineering, cloud architecture, and high-stakes platform reliability across global products.
+I currently operate across multiple technical domains and seniority levels, based on the scope of responsibilities I regularly assume in production systems:
+
+- **Developer 4 (Staff-level behaviors)** — system design, cross-service impact, long-term architecture
+- **DevOps Engineer 3 (Senior)** — CI/CD, observability, deployment reliability, production incidents
+- **Cloud Engineer 3 (Senior)** — AWS infrastructure, cost optimization, environment isolation
+- **Cloud Architect 2 (Senior Cloud Architect)** — cloud architecture design, trade-offs, scalability & resilience
+- **Tech Lead responsibilities** (without formal title) — technical direction, standards, unblocking teams
+
+This reflects the level at which I contribute and am held accountable, rather than formal job titles.
 
 ### ⚡ Large-Scale Data & Real-Time Platforms
 
