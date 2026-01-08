@@ -12,7 +12,7 @@ I currently operate across multiple technical domains and seniority levels, base
 - **DevOps Engineer 3 (Senior)** — CI/CD, observability, deployment reliability, production incidents
 - **Cloud Engineer 3 (Senior)** — AWS infrastructure, cost optimization, environment isolation
 - **Cloud Architect 2 (Senior Cloud Architect)** — cloud architecture design, trade-offs, scalability & resilience
-- **Tech Lead responsibilities** (without formal title) — technical direction, standards, unblocking teams
+- **Tech Lead responsibilities** — technical direction, standards, unblocking teams
 
 This reflects the level at which I contribute and am held accountable, rather than formal job titles.
 
