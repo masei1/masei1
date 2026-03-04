@@ -6,15 +6,7 @@ Welcome to my GitHub profile! I'm marsei, a Senior Software Engineer with over 9
 ## Professional Scope & Responsibilities
 
 I design and lead large-scale, real-time distributed systems powering millions of users.
-I currently operate across multiple technical domains and seniority levels, based on the scope of responsibilities I regularly assume in production systems:
-
-- **Developer 4 (Staff-level behaviors)** — system design, cross-service impact, long-term architecture
-- **DevOps Engineer 3 (Senior)** — CI/CD, observability, deployment reliability, production incidents
-- **Cloud Engineer 3 (Senior)** — AWS infrastructure, cost optimization, environment isolation
-- **Cloud Architect 2 (Senior Cloud Architect)** — cloud architecture design, trade-offs, scalability & resilience
-- **Tech Lead responsibilities** — technical direction, standards, unblocking teams
-
-This reflects the level at which I contribute and am held accountable, rather than formal job titles.
+I currently operate across multiple technical domains and seniority levels
 
 ### ⚡ Large-Scale Data & Real-Time Platforms
 
@@ -53,12 +45,6 @@ Drive large technical spikes, RFCs, and redesigns for critical systems (NextGen 
 Own documentation, specifications, architecture standards, and best practices.
 
 Mentor engineers, elevate code quality culture, and guide architectural decision-making across teams.
-
-### 🌫 Deep Domain Expertise
-
-9+ years of leadership in the air quality, sensor data, environmental intelligence domain.
-
-Deep understanding of sensor calibration, AQI computation, distributed ingestion, and high-volume environmental data workflows.
 
 ## 🚀 Languages, Technologies & Skills
 
